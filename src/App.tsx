@@ -6,7 +6,7 @@ const App = () => {
     <div className="content">
       <h1 className={"bla"}>Currency converter</h1>
       <nav>
-        <Link to="/home">Home</Link> | <Link to="/history">History</Link>
+        <Link to="/">Home</Link> | <Link to="/history">History</Link>
       </nav>
       <Outlet />
     </div>
