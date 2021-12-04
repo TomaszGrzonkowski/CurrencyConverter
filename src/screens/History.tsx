@@ -30,8 +30,8 @@ const History: React.FC = (): JSX.Element => {
           Clear history
         </button>
       )}
-      {conversions.map((el) => (
-        <ConversionItem item={el} />
+      {conversions.map((el, index) => (
+        <ConversionItem item={el} key={index} />
       ))}
     </div>
   );
