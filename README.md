@@ -4,7 +4,7 @@
 
 In the project directory run:
 ### `npm i`
-to install all necesarry dependencies
+to install all necessary dependencies
 
 In the project directory, you can run:
 
