@@ -2,6 +2,10 @@
 
 ## How to run this project
 
+In the project directory run:
+### `npm i`
+to install all necesarry dependencies
+
 In the project directory, you can run:
 
 ### `npm start`
